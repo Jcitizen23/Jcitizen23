@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jahi Citizen 
-- 👀 I’m interested in finding an entry level tech/developer job. I'm very flexible and open to a variety of related positions.
-- 🌱 I’m currently learning AWS Cloud Data Analytics and Development. I'm also studying to take my AWS Certified Cloud Practitioner exam. 
-- 💞️ I’m looking to collaborate on game and web development projects 
+- 👀 I’m interested in finding my next developer role.
+- 🌱 I’m currently working on a startup business and enhancing my skills via certifications and DSA practice. 
+- 💻 I’m looking to collaborate on game and web development projects 
 - 📫 How to reach me: 786-523-5512 or jcitizen223@gmail.com 
 
 <!---
